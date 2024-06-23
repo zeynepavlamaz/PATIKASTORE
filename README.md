@@ -1,7 +1,3 @@
-
-<img width="813" alt="Ekran Resmi 2023-10-20 03 06 09" src="https://github.com/zzavlamaz/PAT-KA-STORE/assets/143629429/cfadd011-e2fb-49f0-a223-e1cecb75709f">
-
-
 # PatikaStore Ürün Yönetim Paneli
 
 <br>
